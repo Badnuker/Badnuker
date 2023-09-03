@@ -23,5 +23,5 @@
 >我名为爱莉希雅……
 >
 >最初的律者，人之律者。
->
->[![Page Views Count](https://badges.toozhao.com/badges/01H9D4KWQGYGEKS8JATJ15ZSJM/blue.svg)](https://badges.toozhao.com/stats/01H9D4KWQGYGEKS8JATJ15ZSJM "Get your own page views count badge on badges.toozhao.com")
+
+[![Page Views Count](https://badges.toozhao.com/badges/01H9D4KWQGYGEKS8JATJ15ZSJM/blue.svg)](https://badges.toozhao.com/stats/01H9D4KWQGYGEKS8JATJ15ZSJM "Get your own page views count badge on badges.toozhao.com")
