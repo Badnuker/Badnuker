@@ -24,4 +24,8 @@
 >
 >最初的律者，人之律者。
 
-[![Page Views Count](https://badges.toozhao.com/badges/01H9D4KWQGYGEKS8JATJ15ZSJM/blue.svg)](https://badges.toozhao.com/stats/01H9D4KWQGYGEKS8JATJ15ZSJM "Get your own page views count badge on badges.toozhao.com")
+![](https://count.getloli.com/get/@Badnuker_Github?theme=moebooru)
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D543843139&query=%24.data.totalSubs&logo=bilibili&logoColor=00A1D6&label=Badnuker&color=00A1D6&link=https%3A%2F%2Fbilibili.com%2F543843139)
+
+
